@@ -1,5 +1,7 @@
 # community
 
+> For the community forum, see https://github.com/leihs/leihs/discussions
+
 Please feel free to post any comment on installing, running or upgrading leihs.
 
 This is not the official leihs-repository. For official information to leihs go to https://github.com/leihs/leihs/wiki.
